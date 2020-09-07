@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to my page !
 
-You can use the [editor on GitHub](https://github.com/s4mc4d/s4mc4d.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am building my own introduction page as a Python enthusiast and FEA (Finite Element Analysis) Simulation Engineer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## FEA background
 
-### Markdown
+I have spent 7 years in the automotive industry as a Simulation Engineer. Calculating products resistance to vibration was part of my daily activity.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Python dev
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s4mc4d/s4mc4d.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I have been using Python since 2011. This skill was a real asset in the Team, because it helped automate all manual operations regarding FEA job (meshing, assembling, applying boundary conditions, postprocessing), reducing hours of work to a few minutes or seconds.

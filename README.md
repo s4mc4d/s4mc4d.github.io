@@ -1,7 +1,7 @@
 ## Welcome to my page !
 
-Hello ! Here is 
-and FEA (Finite Element Analysis) Simulation Engineer.
+Hello ! Here is my status Dashboard for my personal deliveries to Jedha BootCamp.
+You can click on my GitHub repos but you may not have access rights.
 
 ## Jedha Projects 
 
@@ -12,8 +12,10 @@ and FEA (Finite Element Analysis) Simulation Engineer.
     > [GitHub Speed Dating](https://github.com/s4mc4d/speed_dating.git)
 
 - Bloc 3 : 
-    > Walmart Sales, 
+    > Walmart Sales
+    
     > [Conversion Rate Challenge](https://github.com/s4mc4d/conversion_rate)
+    
     > Uber Pickups.
 
 - Bloc 4 (Analyse prédictive de données non-structurées par l'intelligence artificielle) :  Il comporte le projet 
